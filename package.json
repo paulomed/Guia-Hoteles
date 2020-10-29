@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulomed/Guia-Hoteles.git"
+  },
+  "author": "Paulo Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulomed/Guia-Hoteles/issues"
+  },
+  "homepage": "https://github.com/paulomed/Guia-Hoteles#readme"
+}
