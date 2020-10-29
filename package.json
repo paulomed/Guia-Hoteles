@@ -4,6 +4,7 @@
   "description": "Nuestro primer proyecto",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/paulomed/Guia-Hoteles/issues"
   },
-  "homepage": "https://github.com/paulomed/Guia-Hoteles#readme"
+  "homepage": "https://github.com/paulomed/Guia-Hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
