@@ -12,4 +12,13 @@
 
 .card-hotel {
     flex: 1 150px;
+    padding: 5px 5px 5px 5px;
+}
+
+.btn-reserva {
+    width: 90%;
+    position: static;
+    left: 0;
+    right: 0;
+    bottom: 10px;
 }
